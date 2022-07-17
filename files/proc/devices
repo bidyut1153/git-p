@@ -1,0 +1,69 @@
+Character devices:
+  1 mem
+256 msm_rng
+  5 /dev/tty
+  5 /dev/console
+  5 /dev/ptmx
+ 10 misc
+ 13 input
+ 21 sg
+ 29 fb
+ 81 video4linux
+ 86 ch
+ 89 i2c
+108 ppp
+116 alsa
+128 ptm
+136 pts
+166 ttyACM
+180 usb
+188 ttyUSB
+189 usb_device
+216 rfcomm
+232 adsprpc-smd
+233 sensors
+234 avtimer
+235 hidraw
+236 jpeg0
+237 msm_usb_bridge
+238 ttyGS
+239 usbmon
+240 usb_ext_chg
+241 uio
+242 icesdcc
+243 qseecom
+244 kgsl
+245 dia
+246 smdpkt
+247 smd
+248 subsys
+249 mdss_rotator
+250 bsg
+251 media
+252 rtc
+253 msm_thermal_query
+254 msm_sps
+
+Block devices:
+  1 ramdisk
+259 blkext
+  7 loop
+  8 sd
+ 65 sd
+ 66 sd
+ 67 sd
+ 68 sd
+ 69 sd
+ 70 sd
+ 71 sd
+128 sd
+129 sd
+130 sd
+131 sd
+132 sd
+133 sd
+134 sd
+135 sd
+179 mmc
+253 device-mapper
+254 zram

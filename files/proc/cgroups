@@ -1,0 +1,5 @@
+#subsys_name	hierarchy	num_cgroups	enabled
+cpu	3	4	1
+cpuacct	1	350	1
+memory	2	3	1
+freezer	4	65	1

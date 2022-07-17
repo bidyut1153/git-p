@@ -1,0 +1,6 @@
+Display Internal CIFS Data Structures for Debugging
+---------------------------------------------------
+CIFS Version 2.05
+Features: dfs lanman posix spnego xattr acl
+Active VFS Requests: 0
+Servers:

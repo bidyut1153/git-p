@@ -1,0 +1,12 @@
+stats:
+  600 objects
+  600 reclaimable objects
+  36373/38092 cache hits/misses
+  1243600 ms last sorted interval
+  184 inodes on lru list
+average:
+  5 us scan time
+  1 shrunk objects
+maximum:
+  1793 inode (83 objects, 83 reclaimable)
+  14367 us max scan time
